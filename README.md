@@ -1,9 +1,9 @@
 # System Design Note
 
-[1.Introduction](./README.md#section#introduction)
+- [1.Introduction](#introduction)
 
 
-# 1. Introduction(Steps)
+## Introduction
 
 Thousand feet overview of system design: 
 
